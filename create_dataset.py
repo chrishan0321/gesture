@@ -3,7 +3,7 @@ import mediapipe as mp
 import numpy as np
 import time, os
 
-actions = ['come', 'away', 'spin']
+actions = ['rock', 'pinch', 'paper']
 seq_length = 30
 secs_for_action = 30
 
